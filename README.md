@@ -1,5 +1,5 @@
 # arm-model
-Arm model for biomechanical simulation - works with [OpenSim](https://opensim.stanford.edu/) 4.
+Arm model for biomechanical visualisation - converted to open with [OpenSim](https://opensim.stanford.edu/) 4, but appears to have some issues. For the moment, I would not recommend using this one for real analyses. 
 
 DAS stands for Dynamic Arm Simulator: contains model of the shoulder girdle, elbow, wrist and hand. We use this .osim version of the model for moment arm and muscle length pre-processing, for editing model structure and for visualising the results of simulations carried out elsewhere.
 
